@@ -1,5 +1,5 @@
 {
-"switcher": "false",
+"switcher": "true555",
 "domen": "https://sweetyboom.fun/default1?hash={hash}",
 "closechain": "ebalovo"
 }
